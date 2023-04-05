@@ -1,0 +1,12 @@
+.root {
+    -fx-font-size: 18pt;
+    -fx-background-color: #5c6bc0;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-border-radius: 150px;
+}
